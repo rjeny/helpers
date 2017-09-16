@@ -1,2 +1,7 @@
-# helpers
-Скрипты помощники / хорошие ссылки
+# RJENY HELPERS
+
+## CSS USEFULL LINKS
+
+http://csshexagon.com/
+Генератор шетиугольников
+Hexagon generator
